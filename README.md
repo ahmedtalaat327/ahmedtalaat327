@@ -7,8 +7,8 @@
  ⦿ 👯 I’m looking to collaborate on .NET projects. <br>
  </p>
  <p align="center">
-<img  width="78.75"
-    height="87.5" src=https://i.postimg.cc/mgj90Fwj/dino-0000-Layer-1.png />
+<img  width="157.5"
+    height="175" src=https://i.postimg.cc/mgj90Fwj/dino-0000-Layer-1.png />
 </p>
 
 
