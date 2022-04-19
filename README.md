@@ -11,4 +11,4 @@
     height="210" src=https://i.postimg.cc/mgj90Fwj/dino-0000-Layer-1.png />
 </p>
 
-
+<code> <i>My main advice is do not be afraid of XAML; Embrace it, that is where the power is</i> <b>!</b> </code>
