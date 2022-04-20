@@ -8,7 +8,7 @@
  </p>
  <p align="center">
 <img  width="189"
-    height="210" src=https://i.postimg.cc/mgj90Fwj/dino-0000-Layer-1.png />
+    height="210" src=https://i.postimg.cc/7YrFcGzH/io.gif />
 </p>
 
-<code> <i>My main advice is do not be afraid of XAML; Embrace it, that is where the power is</i> <b>!</b> </code>
+<code> <i> 📢 My main advice is do not be afraid of XAML; Embrace it, that is where the power is </i> <b>!</b> </code>
