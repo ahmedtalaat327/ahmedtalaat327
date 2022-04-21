@@ -13,5 +13,5 @@
  
 <code> <i> 📢 My main advice is do not be afraid of XAML; Embrace it, that is where the power is </i> <b>!</b> </code> <br>
 <code> <i> ⛏️My dev-suite:</i> </code><br>
- <code> <i> ⦿ [Visual studio v17](https://visualstudio.microsoft.com/downloads/?msclkid=e5d9893ac1b211ec8687ed5c8ded47c6) </i></code><br>
+ <code> <i> ⦿ [Visual Studio v17](https://visualstudio.microsoft.com/downloads/?msclkid=e5d9893ac1b211ec8687ed5c8ded47c6) </i></code><br>
  <code> <i> ⦿ [Pro Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2022&msclkid=b3eecc6dc0fe11ecbe13ab63a091e7db)</i></code> <br>
