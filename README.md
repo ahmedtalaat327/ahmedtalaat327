@@ -7,7 +7,7 @@
  ⦿ 👯 I’m looking to collaborate on .NET projects. <br>
  </p>
  <p align="center">
-<img width="110" height="159" src=https://i.postimg.cc/fLzbN2pK/wqq.gif />
+<img src=https://media.giphy.com/media/aBgFtbFlRhVJbrnysP/giphy.gif />
 </p>
  
  
