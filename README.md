@@ -9,7 +9,8 @@
  <p align="center">
 <img src=https://media.giphy.com/media/aBgFtbFlRhVJbrnysP/giphy.gif />
 </p>
-https://prod.spline.design/LVfuvHEXRKu2r5Ds/scene.splinecode
+<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.516/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/LVfuvHEXRKu2r5Ds/scene.splinecode"></spline-viewer>
  
 
 <code> <i> ⛏️My dev-suite:</i> </code><br>
