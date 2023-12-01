@@ -10,7 +10,12 @@
 <img src=https://media.giphy.com/media/aBgFtbFlRhVJbrnysP/giphy.gif />
 </p>
 
-<spline-viewer url="https://prod.spline.design/LVfuvHEXRKu2r5Ds/scene.splinecode"></spline-viewer>
+import { Application } from '@splinetool/runtime';
+
+const canvas = document.getElementById('canvas3d');
+const app = new Application(canvas);
+app.load('https://prod.spline.design/LVfuvHEXRKu2r5Ds/scene.splinecode');
+
  
 
 <code> <i> ⛏️My dev-suite:</i> </code><br>
