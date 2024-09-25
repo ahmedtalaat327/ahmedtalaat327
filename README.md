@@ -8,11 +8,10 @@
  </p>
  <p align="center">
 <img src=https://media.giphy.com/media/aBgFtbFlRhVJbrnysP/giphy.gif />
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtalaat327&hide_progress=true)
 </p>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtalaat327&show_icons=true&theme=radical)
  
 
 <code> <i> ⛏️My dev-suite:</i> </code><br>
