@@ -10,9 +10,9 @@
 <img src=https://media.giphy.com/media/aBgFtbFlRhVJbrnysP/giphy.gif />
 </p>
 
-<div style="align="center"">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedtalaat327&show_icons=true&theme=radical)
- </div>
+ 
 
 <code> <i> ⛏️My dev-suite:</i> </code><br>
  <code> <i> ⦿ [Visual Studio v17](https://visualstudio.microsoft.com/downloads/?msclkid=e5d9893ac1b211ec8687ed5c8ded47c6) </i></code><br>
