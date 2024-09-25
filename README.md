@@ -8,7 +8,7 @@
  </p>
  <p align="center">
 <img src=https://media.giphy.com/media/aBgFtbFlRhVJbrnysP/giphy.gif />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtalaat327&hide_progress=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtalaat327&hide_progress=true)
 </p>
 
 
